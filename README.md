@@ -1,6 +1,6 @@
-# React App - Bing Chat API
+# Bing Chat API Free
 
-
+## Componente reutilizable para _____React_____
 
 ## Chat con "Bing Chat", similar a gpt4
 Esta app fue basada en ( https://pypi.org/project/g4f/ ) __GPT4FREE__
