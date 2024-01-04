@@ -11,8 +11,10 @@ header("Access-Control-Allow-Origin: *");
 
 require_once("Connection.php");
 
-
-define("API_URL", "https://chivalrous-quixotic-headphones.glitch.me/chat1");
+/*
+* !! ------>> CAMBIAR API_URL <<------ !!
+*/
+define("API_URL", "URL_PYTHON_API");
 
 
 
