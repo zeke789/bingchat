@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+aiohttp
+asyncio
+typing
+json
+time
+uuid
+random
+requests
