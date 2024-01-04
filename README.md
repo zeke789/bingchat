@@ -1,8 +1,9 @@
 # React App - Bing Chat API
 
 
-## Chat 
-El proyecto fue inspirado por ( https://pypi.org/project/g4f/ )
+
+## Chat con "Bing Chat", similar a gpt4
+El proyecto fue inspirado por ( https://pypi.org/project/g4f/ ) __GPT4FREE__
 
 ### Modo Stream / Normal
 
